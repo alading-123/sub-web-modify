@@ -344,7 +344,7 @@ export default {
           "肥羊备用后端【vless reality+hy1+hy2】": "https://sub.d1.mk",
           nameless13提供: "https://www.nameless13.com",
           subconverter作者提供: "https://sub.xeton.dev",
-          "sub-web作者提供": "https://api.wcc.best",
+          "sub-web作者提供": "https://subapi.lndq.qzz.io",
         },
         backendOptions: [
           { value: "https://subapi.cmliussss.net" },
@@ -1310,3 +1310,4 @@ export default {
   }
 };
 </script>
+
